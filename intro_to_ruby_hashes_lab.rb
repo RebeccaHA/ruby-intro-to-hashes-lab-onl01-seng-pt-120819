@@ -20,7 +20,7 @@ def monopoly
 	      
 	    }
 	  }
-	}
+	}}
 end
 
 
