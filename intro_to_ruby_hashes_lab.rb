@@ -15,7 +15,7 @@ def monopoly
 	    :pieces => 4
 	    :names => {}
 	  }
-	}
+	
 end
 
 
